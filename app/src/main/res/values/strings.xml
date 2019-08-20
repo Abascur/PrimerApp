@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="texto1">Ingresar Nro</string>
+    <string name="texto2">Ingresar Nombre</string>
+    <string name="volver">Volver</string>
+    <string name="guardar">Guardar</string>
+</resources>
